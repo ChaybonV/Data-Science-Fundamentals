@@ -1,0 +1,13 @@
+Lasso regression is NOT PCA!!
+PCA = Feature engineering (2 features. Feature 1 x Feature 2 = new feature)
+Lasso regression = Feature selection (2 features. Feature 1 and feature 2. I choose to only take feature 1).
+
+LEARN THE FULL NAME OF LASSO REGRESSION
+
+Grotere qoëfficiënten afstraffen! Hoe groter de coëfficiënt, hoe hoger de kans op overfitting!
+Dus afstraffen met een penalty term!
+
+Example of linear regression
+
+LASSO = SUPERVISED (I don't know which variables will be chosen, but I know that new variables can't be created)
+PCA = UNSUPERVISED (No idea what I'm gonna get)
